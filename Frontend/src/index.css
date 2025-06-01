@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('./image7.jpg');
+    /* font-family: a; */
+}
+
+
+
